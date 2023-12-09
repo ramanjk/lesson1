@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: "7030933386/nginx:v01.0"
+          image: "7030933386/nginx:v0.1.0"
           ports:
             - containerPort: 80
